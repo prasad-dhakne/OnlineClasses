@@ -1,2 +1,4 @@
-package com.prasad.models;public class Student {
+package com.prasad.models;
+
+public class Student {
 }
